@@ -1,0 +1,1 @@
+from .whisper.mp3_text import SpeechRecognizer
