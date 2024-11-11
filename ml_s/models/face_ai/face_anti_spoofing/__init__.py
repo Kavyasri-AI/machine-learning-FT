@@ -1,0 +1,1 @@
+from .spoofing import face_anti_spoofing
